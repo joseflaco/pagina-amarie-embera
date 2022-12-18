@@ -1,0 +1,63 @@
+body {
+	background: papayawhip;
+}
+.registro{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.registro{
+	width: 400px;
+	background: gray;
+	padding: 30px;
+	margin: auto;
+	margin-top: 100px;
+	border-radius: 4px;
+	font-family: calibri;
+	color: white;
+	box-shadow: 7px 13px 37px #000;
+}
+.registro h2{
+	font-size: 22px;
+	margin-bottom: 20px;
+}
+.controls{
+	width: 100%;
+	background: papayawhip;
+	padding: 10px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+	border: 1px solid greenyellow;
+	font-family: calibri;
+	font-size: 18px;
+}
+.registro p {
+	height: 40px;
+	text-align: initial;
+	font-size: 18px;
+	line-height: 40px;
+}
+
+.registro a:hover{
+	color: white;
+	text-decoration: underline;
+}
+.registro .botons{
+	width: 100%;
+	background: blue;
+	border: none;
+	padding: 12px;
+	color: white;
+	margin: 16px 0;
+	font-size: 16px;
+}
+.sociales{
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.sociales li{
+   display: inline-block;
+}
+.sociales a{
+	padding: 10px;
+}
